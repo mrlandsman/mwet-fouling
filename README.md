@@ -6,10 +6,9 @@ This repository corresponds to the analyses performed in the following peer-revi
 "Crossflow Membrane Filtration System for Operando Fouling Characterization using Transmission X-ray Scattering"
 By: Mostafa Nassr, Matthew R. Landsman, Suzana Ivandic, Eric Schaible, Dylan McReynolds, Nathaniel A. Lynd, Kristofer L. Gleason, Lynn E. Katz, Benny D. Freeman, and Gregory M. Su. 
 Journal: Review of Scientific Instruments
-DOI: 
+DOI: (in review)
 
 The data that supports the findings of this study are openly available in the Texas Data Repository at http://doi.org/10.18738/T8/TS4JVY.
-
 
 # Scripts
 1. **saxs_analysis.ipynb**  This script processes SAXS images collected during particle fouling experiments
